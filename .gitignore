@@ -15,3 +15,4 @@ web/target/work/
 api/.DS_Store
 core/.DS_Store
 web/.DS_Store
+web/target/
