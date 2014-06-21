@@ -12,7 +12,7 @@
 	<mvc:view-controller path="/" view-name="index" />
 
 	<mvc:resources
-		location="/, classpath:/font/, classpath:/img/, classpath:/js/, classpath:/style/"
+		location="/, classpath:/fonts/, classpath:/js/, classpath:/css/"
 		mapping="/resources/**" />
 
 	<bean id="viewResolver"
