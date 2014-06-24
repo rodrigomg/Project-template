@@ -16,4 +16,4 @@ api/.DS_Store
 core/.DS_Store
 web/.DS_Store
 web/target/
-web/src/main/webapp/.DS_Store
+*.DS_Store
