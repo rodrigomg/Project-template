@@ -36,14 +36,14 @@
 				id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="hidden"><a href="#page-top"></a></li>
-					<li class="page-scroll"><a href="#inicio">Inicio</a></li>
-					<li class="page-scroll"><a href="#opciones">Opciones de
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/">Inicio</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/opciones/inicio">Opciones de
 							Titulación</a></li>
-					<li class="page-scroll"><a href="#seminarios">Seminarios</a></li>
-					<li class="page-scroll"><a href="#costos">Costos</a></li>
-					<li class="page-scroll"><a href="#requisitos">Requisitos</a></li>
-					<li class="page-scroll"><a href="#galeria">Galería</a></li>
-					<li class="page-scroll"><a href="#contacto">Contacto</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/seminarios/inicio">Seminarios</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/costos/inicio">Costos</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/requisitos/inicio">Requisitos</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/galeria/inicio">Galería</a></li>
+					<li class="page-scroll"><a href="${pageContext.request.contextPath}/contacto/inicio">Contacto</a></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -52,7 +52,7 @@
 	</nav>
 
   <!-- .container -->
-  <decorator:body /> 
+  	<decorator:body />
   <!-- /.container -->
   
   
