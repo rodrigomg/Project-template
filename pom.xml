@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>mx.edu.ebc</groupId>
-  <artifactId>projectTemplate</artifactId>
+  <groupId>mx.ipn.upiicsa</groupId>
+  <artifactId>aplicacionSeminario</artifactId>
   <version>0.1</version>
   <packaging>pom</packaging>
 
-  <name>ProjectTemplate</name>
+  <name>Aplicacion seminario</name>
 
   <repositories>
     <repository>
@@ -116,6 +116,19 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+  <build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+					<encoding>ISO-8859-1</encoding>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
   <modules>
     <module>api</module>
     <module>core</module>
