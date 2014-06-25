@@ -12,13 +12,7 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top"><img src="${pageContext.request.contextPath}/resources/img/4.jpg" alt="logo" width="150"/></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -28,13 +22,25 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#inicio">Inicio</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="#opciones">Opciones de Titulación</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Contact</a>
+                        <a href="#seminarios">Seminarios</a>
+                    </li>
+                     <li class="page-scroll">
+                        <a href="#costos">Costos</a>
+                    </li>
+                     <li class="page-scroll">
+                        <a href="#requisitos">Requisitos</a>
+                    </li>
+                     <li class="page-scroll">
+                        <a href="#galeria">Galería</a>
+                    </li>
+                     <li class="page-scroll">
+                        <a href="#contacto">Contacto</a>
                     </li>
                 </ul>
             </div>
@@ -43,27 +49,34 @@
         <!-- /.container-fluid -->
     </nav>
 
+
+<section id="jumbotron">
+<div id="header"><img src="${pageContext.request.contextPath}/resources/img/header.png"/></div>
+</section>
+
+
+
+
+
     <header>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="${pageContext.request.contextPath}/resources/img/profile.png" alt="">
+                    <img class="img-responsive" src="${pageContext.request.contextPath}/resources/img/logo.png" alt="logo" width="150">
                     <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
-                        <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                        <span class="name">Seminarios de Titulación</span>
+                        <span class="skills">Seminarios - Requisitos - Pre-inscripción</span>
                     </div>
                 </div>
             </div>
         </div>
     </header>
 
-    <section id="portfolio">
+    <section id="opciones">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
+                    <h2>Opciones de Titulación</h2>
                 </div>
             </div>
             <div class="row">
@@ -74,7 +87,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="${pageContext.request.contextPath}/resources/img/portfolio/cabin.png" class="img-responsive" alt="" />
+                        <img src="${pageContext.request.contextPath}/resources/img/titulacion.jpg" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -131,12 +144,11 @@
         </div>
     </section>
 
-    <section class="success" id="about">
+    <section class="success" id="seminarios">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
+                    <h2>Seminarios</h2>
                 </div>
             </div>
             <div class="row">
@@ -148,19 +160,18 @@
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
+                        <i class="fa fa-download"></i> Descargar Requisitos
                     </a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="contact">
+    <section id="contacto">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Contact Me</h2>
-                    <hr class="star-primary">
+                    <h2>Contáctanos</h2>
                 </div>
             </div>
             <div class="row">
@@ -210,6 +221,11 @@
                         <ul class="list-inline">
                             <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
+                            
+                            <a href="#" class="thumbnail">
+     						 <img src="${pageContext.request.contextPath}/resources/img/facebook-512.png" width="30px">
+   							 </a>
+                            
                             <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
                             <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
