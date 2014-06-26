@@ -37,8 +37,9 @@ h6 {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #5A5966;
     background: #1FC944;
+    background-image:url(../img/BannerPrincipalUPIICSA.jpg);
 }
 
 header .container {
@@ -290,7 +291,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #5A5966;
 }
 
 footer .footer-col {
@@ -299,7 +300,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #5A5966;
 }
 
 .btn-social {
@@ -400,7 +401,6 @@ footer .footer-below {
 }
 
 #jumbotron{
-	height:17px;
-	<!--background-image:url(images_site_parallax/fondo_header.png);--!>
+	background-image:url(../img/BannerPrincipalUPIICSA.jpg);
 	position:relative;
 }
