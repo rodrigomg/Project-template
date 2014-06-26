@@ -2,20 +2,43 @@
 <meta name="decorator" content="template" />
 </head>
 
-<header>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="intro-text">
-					<span class="name">SEMINARIOS DE TITULACIÓN</span> <span
-						class="skills">REQUISITOS PARA INSCRIPCIÓN A SEMINARIO DE
-						TITULACIÓN</span>
-				</div>
+<div id="myCarousel" class="carousel slide">
+	<!-- Indicators -->
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>
+
+	<!-- Wrapper for slides -->
+	<div class="carousel-inner">
+		<div class="item active">
+			<div class="fill"></div>
+			<div class="carousel-caption">
+				<h1>Seminario</h1>
+			</div>
+		</div>
+		<div class="item">
+			<div class="fill"></div>
+			<div class="carousel-caption">
+				<h1>Caption 2</h1>
+			</div>
+		</div>
+		<div class="item">
+			<div class="fill"></div>
+			<div class="carousel-caption">
+				<h1>Caption 3</h1>
 			</div>
 		</div>
 	</div>
-</header>
 
+	<!-- Controls -->
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+		<span class="icon-prev"></span>
+	</a> <a class="right carousel-control" href="#myCarousel" data-slide="next">
+		<span class="icon-next"></span>
+	</a>
+</div>
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12">
@@ -27,13 +50,13 @@
 					social*</li>
 				<li class="list-group-item">Acta de nacimiento original y
 					copia*</li>
-				<li class="list-group-item">Dos fotografías tamaño infantil b/n
-					(traje obscuro y corbata, arreglo formal)*</li>
+				<li class="list-group-item">Dos fotografías tamaño infantil
+					b/n (traje obscuro y corbata, arreglo formal)*</li>
 				<li class="list-group-item">Copia credencial de elector*</li>
 			</ul>
 			<h6>A partir de agosto de 2014, se solicitará la constancia de
-				acreditación del idioma inglés B2, expedida por cualquier Centro de
-				Idiomas autorizado por el IPN (únicamente nuevo plan de estudios)</h6>
+				acreditación del idioma inglés B2, expedida por cualquier Centro
+				de Idiomas autorizado por el IPN (únicamente nuevo plan de estudios)</h6>
 			<h4>Egresados de otras escuelas de IPN</h4>
 			<ul class="list-group">
 				<li class="list-group-item">Autorización de su escuela de
@@ -47,7 +70,7 @@
 					inconveniencia por parte del tecnológico solicitando la
 					autorización para cursar el seminario, dirigido al Director de
 					Servicios Escolares y Estudiantiles de la DGEST (Dirección General
-					de Educación Superior Tecnológica) (oficio de no inconveniencia)</li>
+					de Educación Superior Tecnolóica) (oficio de no inconveniencia)</li>
 				<li class="list-group-item">Original de la autorización de la
 					Dirección de Administración Escolar del IPN, para tomar el
 					seminario en la UPIICSA</li>
@@ -58,8 +81,16 @@
 				inscritos.</h6>
 			<h6>Todo egresado que cause baja después de los 5 días hábiles
 				de haber iniciado el seminario, no podrá recuperar la cuota de
-				inscripción y perderá una oportunidad para titularse en esta opción.</h6>
-			<h5>La devolución del costo del seminario, sólo procede en el mismo mes del depósito.</h5>
+				inscripción y perderá una oportunidad para titularse en esta
+				opción.</h6>
+			<h5>La devolución del costo del seminario, sólo procede en el
+				mismo mes del depósito.</h5>
 		</div>
 	</div>
 </div>
+<script>
+  $('.carousel').carousel({
+    interval : 5000
+  //changes the speed
+  })
+</script>

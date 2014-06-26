@@ -1,23 +1,17 @@
 <head>
 <meta name="decorator" content="template" />
 </head>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <div class="container">
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 	<div class="row">
 		<div class="col-lg-12 text-center">
 			<h2>Seminarios</h2>
 		</div>
 	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 </div>
