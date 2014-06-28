@@ -2162,9 +2162,10 @@ fieldset[disabled] .btn-success.active {
   background-color: #ffffff;
 }
 .btn-info {
-  color: #ffffff;
-  background-color: #3498db;
-  border-color: #3498db;
+  color: #801017;
+  /*background-color: #3498db;*/
+  -webkit-box-shadow:inset 1px 1px 9px 9px #801017;
+box-shadow:inset 1px 1px 9px 9px #801017;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -2172,8 +2173,8 @@ fieldset[disabled] .btn-success.active {
 .btn-info.active,
 .open .dropdown-toggle.btn-info {
   color: #ffffff;
-  background-color: #2383c4;
-  border-color: #2077b2;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-info:active,
 .btn-info.active,
@@ -3944,7 +3945,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #18bc9c;
+  color: #520000;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
@@ -3955,7 +3956,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+  color: #520000;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,

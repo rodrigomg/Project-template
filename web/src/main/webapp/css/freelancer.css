@@ -166,7 +166,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: #660000;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -205,6 +205,14 @@ section.success {
         margin: 0 0 30px;
     }
 }
+
+
+
+
+
+
+
+
 
 .btn-outline {
     margin-top: 15px;
@@ -289,8 +297,8 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
-    background-color: #5A5966;
+    padding-top: 0;
+    background-color: #660000;
 }
 
 footer .footer-col {
@@ -299,7 +307,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #5A5966;
+    background-color: #660000;
 }
 
 .btn-social {
@@ -405,3 +413,40 @@ footer .footer-below {
 	background-position: center;
 	background-repeat: no-repeat;
 }
+
+.tituacion_texto {
+	text-align: center;
+    color: #000000;
+}
+p{
+	font-size: 15px;
+}
+#h1_tit{
+	text-shadow: 11px 5px 9px #800505;
+	text-align:center;
+}
+
+#tips{
+	background-image:url(../img/iloveipn.jpg);
+	position:relative;
+	height:879px;
+
+	
+}
+#tips_text{
+	width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	z-index:1;
+	background-color:rgba(105,105,105,.5);
+	color:#000000;
+}
+
+@media only screen and (max-width:320px){
+#jumbotron{
+	background-image:url(../img/header1.jpg);
+	background-color: #909090;
+	padding: 15px 0px;
+}
+}
+

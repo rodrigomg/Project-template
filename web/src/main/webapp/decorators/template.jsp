@@ -4,8 +4,9 @@
 	prefix="decorator"%>
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
+<!--  <meta charset="UTF-8">-->
 <link
 	href="${pageContext.request.contextPath}/resources/css/bootstrap.css"
 	rel="stylesheet" type="text/css">
@@ -21,6 +22,9 @@
 <link
 	href="${pageContext.request.contextPath}/resources/css/full-slider.css"
 	rel="stylesheet">
+<link
+	href="${pageContext.request.contextPath}/resources/css/animate.css"
+	rel="stylesheet">
 
 <script
 	src="${pageContext.request.contextPath}/resources/js/jquery-1.10.2.js"></script>
@@ -33,6 +37,12 @@
 	src="${pageContext.request.contextPath}/resources/js/cbpAnimatedHeader.js"></script>
 <script
 	src="${pageContext.request.contextPath}/resources/js/freelancer.js"></script>
+<script
+	src="${pageContext.request.contextPath}/resources/js/jquery.stellar.js"></script>
+	
+	
+
+	
 
 <title>Seminario titulacion</title>
 <decorator:head />
@@ -116,4 +126,16 @@
 	</footer>
 
 </body>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.navbar-brand').addClass('animated bounceInDown');
+        $('window').stellar();
+    });
+	
+</script>
+
+
+
+
 </html>

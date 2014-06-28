@@ -26,7 +26,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/cabin.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/titulacion.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -38,7 +38,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/cake.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos1.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -50,7 +50,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/circus.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos2.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -62,7 +62,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/game.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos3.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -74,7 +74,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/safe.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/actor.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -86,7 +86,7 @@
 								<i class="fa fa-search-plus fa-3x"></i>
 							</div>
 						</div> <img
-						src="${pageContext.request.contextPath}/resources/img/portfolio/submarine.png"
+						src="${pageContext.request.contextPath}/resources/img/portfolio/equipo.jpg"
 						class="img-responsive" alt="" />
 					</a>
 				</div>
@@ -110,7 +110,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/cabin.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/titulacion.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon
@@ -153,7 +153,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/cake.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos1.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon
@@ -196,7 +196,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/circus.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos2.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon
@@ -239,7 +239,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/game.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/alumnos3.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon
@@ -282,7 +282,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/safe.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/actor.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon
@@ -325,7 +325,7 @@
 					<div class="modal-body">
 						<h2>Project Title</h2>
 						<hr class="star-primary">
-						<img src="${pageContext.request.contextPath}/resources/img/portfolio/submarine.png"
+						<img src="${pageContext.request.contextPath}/resources/img/portfolio/equipo.jpg"
 							class="img-responsive img-centered" alt="">
 						<p>
 							Use this area of the page to describe your project. The icon

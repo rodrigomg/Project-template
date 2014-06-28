@@ -15,21 +15,25 @@
 		<div class="item active">
 			<div class="fill"></div>
 			<div class="carousel-caption">
-				<h1>Seminario</h1>
+				<h1>Bienvenido</h1>
+				<h2>P&aacute;gina de Seminarios de Titulac&iacute;on</h2>
 			</div>
 		</div>
 		<div class="item">
-			<div class="fill"></div>
+			<div class="fill1"></div>
 			<div class="carousel-caption">
-				<h1>Caption 2</h1>
+				<h1>Seminarios</h1>
+				<h2>Programaci&oacute;n de Seminarios</h2>
 			</div>
 		</div>
 		<div class="item">
-			<div class="fill"></div>
+			<div class="fill2"></div>
 			<div class="carousel-caption">
-				<h1>Caption 3</h1>
+				<h1>Pre-Inscripci&oacute;n, Disponinilidad, Documentaci&oacute;n</h1>
+				<h2>Informaci&oacute;n completa</h2>
 			</div>
 		</div>
+		
 	</div>
 
 	<!-- Controls -->
@@ -42,55 +46,51 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12">
-			<h4>Egresados de la UPIICSA deberán presentar fotocopia legible
-				de los siguientes documentos:</h4>
-			<ul class="list-group">
-				<li class="list-group-item">Copia certificado de estudios*</li>
-				<li class="list-group-item">Copia liberación de servicio
-					social*</li>
-				<li class="list-group-item">Acta de nacimiento original y
-					copia*</li>
-				<li class="list-group-item">Dos fotografías tamaño infantil
-					b/n (traje obscuro y corbata, arreglo formal)*</li>
-				<li class="list-group-item">Copia credencial de elector*</li>
-			</ul>
-			<h6>A partir de agosto de 2014, se solicitará la constancia de
-				acreditación del idioma inglés B2, expedida por cualquier Centro
-				de Idiomas autorizado por el IPN (únicamente nuevo plan de estudios)</h6>
-			<h4>Egresados de otras escuelas de IPN</h4>
-			<ul class="list-group">
-				<li class="list-group-item">Autorización de su escuela de
-					procedencia, para cursar el seminario (oficio de no inconveniencia)</li>
-			</ul>
-			<h4>Egresados de los Institutos Tecnológicos</h4>
-			<ul class="list-group">
-				<li class="list-group-item">Autorización de su Tecnológico para
-					cursar el seminario, dirigido al Director de la UPIICSA</li>
-				<li class="list-group-item">Copia del oficio de no
-					inconveniencia por parte del tecnológico solicitando la
-					autorización para cursar el seminario, dirigido al Director de
-					Servicios Escolares y Estudiantiles de la DGEST (Dirección General
-					de Educación Superior Tecnolóica) (oficio de no inconveniencia)</li>
-				<li class="list-group-item">Original de la autorización de la
-					Dirección de Administración Escolar del IPN, para tomar el
-					seminario en la UPIICSA</li>
-			</ul>
-			<h6>*Estos documentos también los deben presentar los egresados
-				de otras escuelas del IPN y de los Institutos Tecnológicos.</h6>
-			<h6>Egresados que no cuenten con esta documentación no serán
-				inscritos.</h6>
-			<h6>Todo egresado que cause baja después de los 5 días hábiles
-				de haber iniciado el seminario, no podrá recuperar la cuota de
-				inscripción y perderá una oportunidad para titularse en esta
-				opción.</h6>
-			<h5>La devolución del costo del seminario, sólo procede en el
-				mismo mes del depósito.</h5>
+		<div class="titulacion_text">
+			<h1>Â¿Y T&Uacute; YA ESTAS TITULADO?</h1>
+			<p>En la actualidad es muy importante tener un t&iacute;tulo  universitario en vista de los vertiginosos cambios econ&oacute;micos y sociales que acontecen a diario en el mundo y particularmente en el pa&iacute;s.</p>
+			<p>El culminar exitosamente una carrera universitaria y titularte, representa un largo camino de esfuerzo y estudio y dedicaci&oacute;n.</p>
+			<p>Esto te abre puertas para obtener mejores puestos dentro de las empresas, las cuales exigen un mejor y mayor desempeÃ±o profesional debido a la alta competividad del mercado laboral.
+Muchas veces la diferencia entre ser o no elegido depende de algo fundamental, estar titulado....</p>
+		 </div>
 		</div>
 	</div>
 </div>
+
+
+<div class="container">
+	<div class "row">
+    <div class="col-sm-4">
+        <img src="${pageContext.request.contextPath}/resources/img/tituloipn.jpg" class="img-circle img-responsive center-block"/>
+    <h2 class="text-center">Seminario de titulaci&oacute;n profesional IPN</h2>
+    <p class="text-center">La opciÃ³n seminario de titulaciÃ³n profesional, consiste en que el pasante o alumno regular inscrito en el Ãºltimo semestre acredite dicho seminario, con una duraciÃ³n mÃ­nima de ciento cincuenta horas, para el nivel superior, y noventa horas, para el nivel medio superior, que para tal efecto organice la SubdirecciÃ³n AcadÃ©mica de las Escuelas, Centros o Unidades de enseÃ±anza y de investigaciÃ³n, previo acuerdo del Consejo TÃ©cnico Consultivo Escolar y autorizaciÃ³n de la SecretarÃ­a AcadÃ©mica.</p>
+        <a href="http://www.dae.ipn.mx/tramites/info_titulacion.html"><button type="button" class="btn-info">Leer m&aacute;s...</button></a>
+    </div>
+
+    <div class="col-sm-4">
+    <h2 class="text-center">Ventajas de un t&iacute;tulo universitario</h2>
+    <p class="text-center">Muchos estudiantes en su Ãºltimo aÃ±o de preparatoria, asÃ­ como aquellos que ya se han graduado pero que estÃ¡n contemplando volver a la escuela, sopesan las ventajas y desventajas de un tÃ­tulo universitario. Hay mÃ¡s pruebas y apoyo de las ventajas de perseguir y obtener un tÃ­tulo universitario en relaciÃ³n con no obtener alguno; sin embargo, una consideraciÃ³n cuidadosa es la clave en la toma de una decisiÃ³n informada final.</p>
+        <img src="${pageContext.request.contextPath}/resources/img/tituloipn2.jpg" class="img-circle img-responsive center-block" width="300"/>
+   <a href="http://www.ehowenespanol.com/ventajas-desventajas-titulo-universitario-info_482705/"><button type="button" class="btn-info">Leer m&aacute;s...</button></a>
+    </div>
+    <div class="col-sm-4">
+        <img src="${pageContext.request.contextPath}/resources/img/tesis.jpg" class="img-circle img-responsive center-block" width="300"/>
+    <h2 class="text-center">Â¿Tesis o no tesis, cu&aacute;l es la diferencia?</h2>
+    <p class="text-center">Titularse no es cualquier cosa, aÃºn para los que no tienen que hacer una tesis, y con ciertos requisitos obtienen su tÃ­tulo de licenciatura, es todo un reto en el sentido administrativo. Papeles, mÃ¡s trÃ¡mites y firmas. </p>
+            <a href="http://foros.eluniversal.com.mx/blogs/weblogs_detalle796.html"><button type="button" class="btn-info">Leer m&aacute;s...</button></a>
+    </div>
+    </div>
+ </div>
+ 
+    
+
+
+
+
 <script>
   $('.carousel').carousel({
-    interval : 5000
+    interval : 3000
   //changes the speed
   })
 </script>
+
