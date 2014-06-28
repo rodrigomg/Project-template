@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 		<div class="titulacion_text">
-			<h1>¿Y T&Uacute; YA ESTAS TITULADO?</h1>
+			<h1 id="h1_tit">¿Y T&Uacute; YA ESTAS TITULADO?</h1>
 			<p>En la actualidad es muy importante tener un t&iacute;tulo  universitario en vista de los vertiginosos cambios econ&oacute;micos y sociales que acontecen a diario en el mundo y particularmente en el pa&iacute;s.</p>
 			<p>El culminar exitosamente una carrera universitaria y titularte, representa un largo camino de esfuerzo y estudio y dedicaci&oacute;n.</p>
 			<p>Esto te abre puertas para obtener mejores puestos dentro de las empresas, las cuales exigen un mejor y mayor desempeño profesional debido a la alta competividad del mercado laboral.
@@ -61,7 +61,7 @@ Muchas veces la diferencia entre ser o no elegido depende de algo fundamental, e
 <div class="container">
 	<div class "row">
     <div class="col-sm-4">
-        <img src="${pageContext.request.contextPath}/resources/img/tituloipn.jpg" class="img-circle img-responsive center-block"/>
+        <img src="${pageContext.request.contextPath}/resources/img/tituloipn.jpg" class="img-circle img-responsive center-block" width="300"/>
     <h2 class="text-center">Seminario de titulaci&oacute;n profesional IPN</h2>
     <p class="text-center">La opción seminario de titulación profesional, consiste en que el pasante o alumno regular inscrito en el último semestre acredite dicho seminario, con una duración mínima de ciento cincuenta horas, para el nivel superior, y noventa horas, para el nivel medio superior, que para tal efecto organice la Subdirección Académica de las Escuelas, Centros o Unidades de enseñanza y de investigación, previo acuerdo del Consejo Técnico Consultivo Escolar y autorización de la Secretaría Académica.</p>
         <a href="http://www.dae.ipn.mx/tramites/info_titulacion.html"><button type="button" class="btn-info">Leer m&aacute;s...</button></a>
