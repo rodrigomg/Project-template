@@ -10,35 +10,6 @@
 <br />
 
 
-
-<section id="tips" data-stellar-background-ratio="0.5">
-	<div id="tips_text">
-		<h4 id="h2_t">Procedimiento y Requisitos</h4>
-		<hr>
-		<p>
-			<br />
-		</p>
-		<p>Consiste en que el Pasante acredite un curso con duraci&oacute;n de
-			ciento cincuenta horas, que para tal efecto organice la Subdirección
-			Académica de las escuelas, centros y unidades de enseñanza y de
-			investigación, previo acuerdo del Consejo Técnico Consultivo Escolar
-			y autorización de la Secretaría Acad&eacute;mica del IPN.</p>
-		<p>
-			<br />
-		</p>
-		<p>Para acreditar este curso se deberá obtener una calificación no
-			menor de ocho y una asistencia mínima del noventa por ciento, además
-			de presentar un trabajo escrito relacionado con el tema del
-			Seminario. Art. 12 del Reglamento de Titulación. A partir de la
-			terminación del seminario se tiene un año de vigencia para concluir
-			con el trámite.</p>
-		<p>
-			<br />
-		</p>
-	</div>
-
-</section>
-
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12 text-center">
