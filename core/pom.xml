@@ -13,7 +13,7 @@
 	<name>core</name>
 	<dependencies>
 		<dependency>
-			<groupId>mx.edu.ebc</groupId>
+			<groupId>mx.ipn.upiicsa</groupId>
 			<artifactId>api</artifactId>
 			<version>${project.version}</version>
 			<type>jar</type>
